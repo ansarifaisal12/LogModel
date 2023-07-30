@@ -1,4 +1,4 @@
-Logistic Regression for Iris Dataset
+# Logistic Regression for Iris Dataset
 This project demonstrates the implementation of a logistic regression model to classify the Iris dataset into two classes: "setosa" and "versicolor". The logistic regression model is implemented using Python and scikit-learn library.
 
 Table of Contents
