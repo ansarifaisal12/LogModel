@@ -27,12 +27,6 @@ Install the required libraries using pip:
 bash
 Copy code
 pip install -r requirements.txt
-# Usage
-The main code for the logistic regression model is located in the logistic_regression_iris.py file. You can run it using the following command:
-bash
-Copy code
-python logistic_regression_iris.py
-The script will load the Iris dataset, preprocess it to consider only the "setosa" and "versicolor" classes, and then split it into training and testing sets. The logistic regression model will be trained on the training data and evaluated on the testing data.
 # Hyperparameter Tuning
 The logistic regression model is tuned using GridSearchCV from scikit-learn. The hyperparameters considered for tuning are:
 
